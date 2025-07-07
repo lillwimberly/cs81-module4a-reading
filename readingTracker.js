@@ -1,3 +1,5 @@
+// GitHub repo URL: https://github.com/lillwimberly/cs81-module4a-reading
+
 // Weekly reading log
 const readingLog = [
   { day: 'Monday', book: 'Dune', minutes: 30 },
