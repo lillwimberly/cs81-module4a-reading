@@ -1,4 +1,5 @@
 // GitHub repo URL: https://github.com/lillwimberly/cs81-module4a-reading
+// I left the name of my repo ending as 4a-reading as you directed in the instruction and did not change it to 4a-reviewtracker as you said later because I would create a new connection with my file because of the name change, push fake commits, etc. I hope that's fine.
 
 // Weekly reading log
 const readingLog = [
